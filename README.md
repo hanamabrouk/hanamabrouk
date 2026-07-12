@@ -12,7 +12,7 @@
 
 ## Featured Projects
 - 🏦 [Bank Customer Churn Prediction](https://github.com/hanamabrouk/bank-customer-churn-prediction) — classification pipeline built through CRISP-DM
-- ❤️ Heart Disease Prediction — LVQ-based classifier with CRISP-DM methodology and Streamlit deployment
+- - ❤️ [Heart Disease Prediction](https://github.com/hanamabrouk/heart-disease-prediction) — LVQ-based classifier with CRISP-DM methodology and Streamlit deploymentt
 - ✋ Sign Language Recognition — pose-based temporal graph convolutional network (Pose T-GCN)
 - 🧩 Sudoku Solver — computer vision-based solver
 - 🔗 Lost and Found Registry — blockchain-based DApp built with Solidity
